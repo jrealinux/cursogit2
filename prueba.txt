@@ -1,4 +1,5 @@
 version1.0
 Esta es la nueva version de codigo v2.0
 version 3.0 liberada
-version4.0
+version4.0 (modificacion de la version4)
+version5.0 (nueva carateristica)
